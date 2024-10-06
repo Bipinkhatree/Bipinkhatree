@@ -5,3 +5,22 @@ a{
     font-size: 24px;
     color: cornflowerblue;
 }
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: burlywood;
+}
+h3{
+    font-weight: 500;
+    color: brown;
+    font-size: 32px;
+}
+p{
+    font-weight: 600;
+    font-size: 24px;
+}
+li{
+    font-weight: 700;
+    color:mediumturquoise;
+    font-size: 22px;
+}
