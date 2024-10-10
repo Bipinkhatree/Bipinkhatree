@@ -24,3 +24,23 @@ li{
     color:mediumturquoise;
     font-size: 22px;
 }
+.main-container{
+    width: 600px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: #FFCF00;
+}
+
+.main-container h1{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #FFD5FF;
+    color: #B47EB3;
+}
+
+.main-container ul li{
+    padding: 20px;
+    margin: 0 auto;
+}
