@@ -44,3 +44,123 @@ li{
     padding: 20px;
     margin: 0 auto;
 }
+
+.baked-container{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #1C448E;
+}
+.baked-container h1{
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    color: #FF9F1C;
+    background-color: #CCCCCC;
+}
+.baked-container img{
+    padding: 20px;
+    display: block;
+    margin: 10px auto;
+    
+}
+.baked-container h3{
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+    color: #FFE381;
+    background-color: #272D2D;
+}
+.baked-container p{
+    padding: 12px;
+    color: #EDC79B;
+}
+.baked-container ul{
+    margin: 20px;
+    padding: 24px;
+}
+.baked-container ul li{
+    padding: 20px;
+    margin: 8px auto;
+}
+.homemade-container{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #918B76;
+}
+.homemade-container h1{
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    color: #0353A4;
+    background-color: #CCCCCC;
+}
+.homemade-container img{
+    padding: 20px;
+    display: block;
+    margin: 10px auto;
+    
+}
+.homemade-container h3{
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+    color: #FFE381;
+    background-color: #272D2D;
+}
+.homemade-container p{
+    padding: 12px;
+    color: #EDC79B;
+}
+.homemade-container ul{
+    margin: 20px;
+    padding: 24px;
+    
+}
+.homemade-container ul li{
+    padding: 20px;
+    margin: 8px auto;
+    color: #FFE156;
+}
+
+.maple-container{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #B486AB;
+}
+.maple-container h1{
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    color: #D81E5B;
+    background-color: #CCCCCC;
+}
+.maple-container img{
+    padding: 20px;
+    display: block;
+    margin: 10px auto;
+    
+}
+.maple-container h3{
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+    color: #FFE381;
+    background-color: #272D2D;
+}
+.maple-container p{
+    padding: 12px;
+    color: #DB162F;
+}
+.maple-container ul{
+    margin: 20px;
+    padding: 24px;
+    
+}
+.maple-container ul li{
+    padding: 20px;
+    margin: 8px auto;
+    color: #001B2E;
+}
