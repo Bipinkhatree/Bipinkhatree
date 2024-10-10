@@ -5,25 +5,6 @@ a{
     font-size: 24px;
     color: cornflowerblue;
 }
-h1{
-    font-size: 50px;
-    font-weight: 700;
-    color: burlywood;
-}
-h3{
-    font-weight: 500;
-    color: brown;
-    font-size: 32px;
-}
-p{
-    font-weight: 600;
-    font-size: 24px;
-}
-li{
-    font-weight: 700;
-    color:mediumturquoise;
-    font-size: 22px;
-}
 .main-container{
     width: 600px;
     height: 500px;
@@ -38,11 +19,16 @@ li{
     text-align: center;
     background-color: #FFD5FF;
     color: #B47EB3;
+    font-size: 50px;
+    font-weight: 700px;
 }
 
 .main-container ul li{
     padding: 20px;
     margin: 0 auto;
+    font-size: 22px;
+    font-weight: 700;
+    color: #69306D;
 }
 
 .baked-container{
@@ -57,6 +43,8 @@ li{
     text-align: center;
     color: #FF9F1C;
     background-color: #CCCCCC;
+    font-size: 50px;
+    font-weight: 700;
 }
 .baked-container img{
     padding: 20px;
@@ -70,10 +58,14 @@ li{
     margin: 10px;
     color: #FFE381;
     background-color: #272D2D;
+    font-size: 32px;
+    font-weight: 500;
 }
 .baked-container p{
     padding: 12px;
     color: #EDC79B;
+    font-weight: 600;
+    font-size: 24px;
 }
 .baked-container ul{
     margin: 20px;
@@ -82,6 +74,8 @@ li{
 .baked-container ul li{
     padding: 20px;
     margin: 8px auto;
+    font-size: 22px;
+    font-weight: 700;
 }
 .homemade-container{
     width: 800px;
@@ -95,6 +89,8 @@ li{
     text-align: center;
     color: #0353A4;
     background-color: #CCCCCC;
+    font-size: 50px;
+    font-weight: 700;
 }
 .homemade-container img{
     padding: 20px;
@@ -108,20 +104,27 @@ li{
     margin: 10px;
     color: #FFE381;
     background-color: #272D2D;
+    font-size: 32px;
+    font-weight: 500;
 }
 .homemade-container p{
     padding: 12px;
     color: #EDC79B;
+    font-size: 24px;
+    font-weight: 600;
 }
 .homemade-container ul{
     margin: 20px;
     padding: 24px;
+    
     
 }
 .homemade-container ul li{
     padding: 20px;
     margin: 8px auto;
     color: #FFE156;
+    font-size: 22px;
+    font-weight: 700;
 }
 
 .maple-container{
@@ -136,6 +139,8 @@ li{
     text-align: center;
     color: #D81E5B;
     background-color: #CCCCCC;
+    font-size: 50px;
+    font-weight: 700;
 }
 .maple-container img{
     padding: 20px;
@@ -149,10 +154,14 @@ li{
     margin: 10px;
     color: #FFE381;
     background-color: #272D2D;
+    font-size: 32px;
+    font-weight: 500;
 }
 .maple-container p{
     padding: 12px;
     color: #DB162F;
+    font-size: 24px;
+    font-weight: 600;
 }
 .maple-container ul{
     margin: 20px;
@@ -163,4 +172,7 @@ li{
     padding: 20px;
     margin: 8px auto;
     color: #001B2E;
+    font-size: 22px;
+    font-weight: 700;
+
 }
